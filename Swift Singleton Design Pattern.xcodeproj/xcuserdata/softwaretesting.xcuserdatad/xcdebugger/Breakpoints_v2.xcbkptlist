@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift Singleton Design Pattern/PreferencesSingleton.swift"
+            timestampString = "553491578.123256"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "UserPreferences"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_BA614A60424F43D76593408259188540_func0"
+                  moduleName = "Swift Singleton Design Pattern"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/softwaretesting/Dropbox/iOS%20Brain/Article%20Ideas/Swift%20Design%20Patterns/Swift%20Singleton%20Design%20Pattern/Swift%20Singleton%20Design%20Pattern/PreferencesSingleton.swift"
+                  timestampString = "553446116.984278"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Singleton_Design_Pattern.UserPreferences.shared.unsafeMutableAddressor : Swift_Singleton_Design_Pattern.UserPreferences"
+                  moduleName = "Swift Singleton Design Pattern"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/softwaretesting/Dropbox/iOS%20Brain/Article%20Ideas/Swift%20Design%20Patterns/Swift%20Singleton%20Design%20Pattern/Swift%20Singleton%20Design%20Pattern/PreferencesSingleton.swift"
+                  timestampString = "553446116.987951"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Swift_Singleton_Design_Pattern.UserPreferences.shared.getter : Swift_Singleton_Design_Pattern.UserPreferences"
+                  moduleName = "Swift Singleton Design Pattern"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/softwaretesting/Dropbox/iOS%20Brain/Article%20Ideas/Swift%20Design%20Patterns/Swift%20Singleton%20Design%20Pattern/Swift%20Singleton%20Design%20Pattern/PreferencesSingleton.swift"
+                  timestampString = "553446116.991171"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift Singleton Design Pattern/AppDelegate.swift"
+            timestampString = "553491578.123557"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift Singleton Design Pattern/ViewController.swift"
+            timestampString = "553491578.124056"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
